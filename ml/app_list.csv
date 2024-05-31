@@ -1,0 +1,61 @@
+href,appname,github_href,num_commits,num_stars,description
+/project/NextCloud,NextCloud,https://github.com/nextcloud/server,,25719,File hosting service
+/project/Matomo,Matomo,https://github.com/Matomo-org/matomo,,19118,Web analytics application that can track online visits to websites.
+/project/Cachet,Cachet,https://github.com/CachetHQ/Cachet,,13727,status page system designed to help you keep track of your system status and share it with your user base. It is built to be responsive and works seamlessly across different devices.
+/project/Bookstack,Bookstack,https://github.com/BookStackApp/BookStack,,13924,Self hosted platform to create documentation/wiki
+/project/Firefly-III,Firefly III,https://github.com/firefly-iii/firefly-iii,,14388,Personal Finance manager
+/project/Magento-,Magento,https://github.com/magento/magento2,,11286,eCommerce website builder
+/project/YOURLS,YOURLS,https://github.com/YOURLS/YOURLS,,10283,Self -hosted UTL shortener
+/project/Wallabag,Wallabag,https://github.com/wallabag/wallabag,,9749,wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+/project/Bagisto,Bagisto,https://github.com/bagisto/bagisto,,11569,Laravel eCommerce platform to build online store
+/project/WooCommerce,WooCommerce,https://github.com/woocommerce/woocommerce,,9115,Platform to build eCommerce store
+/project/OwnCloud,OwnCloud,https://github.com/owncloud/core,,8273,Cloud Data storage solution
+/project/Kanboard,Kanboard,https://github.com/kanboard/kanboard,,8162,Kanban project management software
+/project/PrestaShop,PrestaShop,https://github.com/prestashop/prestashop,,7824,PrestaShop is the universal open-source software platform to build your e-commerce solution.
+/project/Sylius,Sylius,https://github.com/Sylius/Sylius,,7692,Open Source eCommerce Framework on Symfony
+/project/InvoiceNinja,InvoiceNinja,https://github.com/invoiceninja/invoiceninja,,7787,"Invoices, Expenses and Tasks built with Laravel, Flutter and React"
+/project/Opencart,Opencart,https://github.com/opencart/opencart,,7254,A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
+/project/Akaunting,Akaunting,https://github.com/akaunting/akaunting,,7560,Online Accounting Software
+/project/Mautic,Mautic,https://github.com/mautic/mautic,,6696,Mautic: Open Source Marketing Automation Software.
+/project/HumHub,HumHub,https://github.com/humhub/humhub,,6224,"HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules."
+/project/Flarum,Flarum,https://github.com/flarum/framework,,6196,Simple forum software for building great communities.
+/project/PrivateBin,PrivateBin,https://github.com/PrivateBin/PrivateBin,,5900,"A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES."
+/project/Pixelfed,Pixelfed,https://github.com/pixelfed/pixelfed,,5438,Photo Sharing. For Everyone.
+/project/Moodle,Moodle,https://github.com/moodle/moodle,,5414,Moodle - the world's open source learning platform
+/project/DoliCloud,DoliCloud,https://github.com/Dolibarr/dolibarr,,4938,"Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers."
+/project/Krayin,Krayin,https://github.com/krayin/laravel-crm,,6759,Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
+/project/pfSense,pfSense,https://github.com/pfsense/pfsense,,4646,Main repository for pfSense
+/project/UVDesk,UVDesk,https://github.com/uvdesk/community-skeleton,,6448,UVdesk Opensource Community Helpdesk Project built for all to make a Full Ticketing Support System along with many more other features.
+/project/Passbolt,Passbolt,https://github.com/passbolt/passbolt_api,,4397,Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
+/project/SuiteCRM,SuiteCRM,https://github.com/salesagility/SuiteCRM,,4166,SuiteCRM - Open source CRM for the world
+/project/Docuwiki,Docuwiki,https://github.com/splitbrain/dokuwiki,,4012,The DokuWiki Open Source Wiki Engine
+/project/LeanTime,LeanTime,https://github.com/leantime/leantime,,4091,"Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind."
+/project/Pimcore,Pimcore,https://github.com/pimcore/pimcore,,3205,"Core Framework for the Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)"
+/project/Microweber,Microweber,https://github.com/microweber/microweber,,3019,Drag and Drop Website Builder and CMS with E-commerce
+/project/Piwigo,Piwigo,https://github.com/Piwigo/Piwigo,,3045,"Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!"
+/project/Vesta,Vesta,https://github.com/serghey-rodin/vesta,,2885,VESTA Control Panel
+/project/Hestia,Hestia,https://github.com/hestiacp/hestiacp,,3056,Hestia Control Panel | A lightweight and powerful control panel for the modern web.
+/project/Vanilla,Vanilla,https://github.com/vanilla/vanilla,,2826,Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
+/project/Opnsense,Opnsense,https://github.com/opnsense/core,,2998,"OPNsense GUI, API and systems backend"
+/project/Kimai-,Kimai,https://github.com/kevinpapst/kimai2,,2916,"Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so much more. SaaS version available at https://www.kimai.cloud"
+/project/Shopware,Shopware,https://github.com/shopware/platform,,2637,Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+/project/LinkAce,LinkAce,https://github.com/Kovah/LinkAce,,2442,LinkAce is a self-hosted archive to collect links of your favorite websites.
+/project/Open-Web-Analytics,Open Web Analytics,https://github.com/padams/Open-Web-Analytics,,2373,Official repository for Open Web Analytics which is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app.  Please consider sponsoring this project.
+/project/phpBB,phpBB,https://github.com/phpbb/phpbb,,1788, phpBB Development: phpBB is a popular open-source bulletin board written in PHP. This repository also contains the history of version 2.
+/project/Filegator,Filegator,https://github.com/filegator/filegator,,1887,Powerful Multi-User File Manager
+/project/Fusio,Fusio,https://github.com/apioo/fusio,,1675,Open source API management platform
+/project/YetiForce-CRM,YetiForce CRM,https://github.com/YetiForceCompany/YetiForceCRM,,1655,Our team created for you one of the most innovative CRM systems that supports mainly business processes and allows for customization according to your needs. Be ahead of your competition and implement YetiForce!
+/project/Sendportal,Sendportal,https://github.com/mettle/sendportal,,1600,Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost. 
+/project/Espocrm,Espocrm,https://github.com/espocrm/espocrm,,1523,EspoCRM – Open Source CRM Application
+/project/Friendica,Friendica,https://github.com/friendica/friendica,,1377,Friendica Communications Platform
+/project/Sulu,Sulu,https://github.com/sulu/sulu,,1119,Core framework that implements the functionality of the Sulu content management system
+/project/MyBB,MyBB,https://github.com/mybb/mybb,,1033,MyBB is a free and open source forum software.
+/project/Tuleap,Tuleap,https://github.com/Enalean/tuleap,,956,"Tuleap is an Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, deploy software projects."
+/project/Flyimg,Flyimg,https://github.com/flyimg/flyimg,,931,"Cloud-native application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system."
+/project/Thelia,Thelia,https://github.com/thelia/thelia,,833,Thelia is an open source tool for creating e-business websites and managing online content. Repo containing the new major version (v2)
+/project/Concrete,Concrete,https://github.com/concrete5/concrete5,,763,Official repository for Concrete CMS development
+/project/BoxBilling,BoxBilling,https://github.com/boxbilling/boxbilling,,761,BoxBilling - Open source billing and client management software
+/project/Orangehrm,Orangehrm,https://github.com/orangehrm/orangehrm,,738,OrangeHRM is a comprehensive Human Resource Management (HRM) System that captures  all the essential functionalities required for any enterprise. 
+/project/CiviCRM,CiviCRM,https://github.com/civicrm/civicrm-core,,567,CiviCRM (Core Application and Framework)
+/project/Shopaholic,Shopaholic,https://github.com/oc-shopaholic/oc-shopaholic-plugin,,423,🛍️ No. 1 e-commerce platform for October CMS 
+/project/Passwordcockpit,Passwordcockpit,https://github.com/passwordcockpit/passwordcockpit,,103,"Passwordcockpit is a simple, free, open source, self hosted, web based password manager for teams. It is made in PHP, Javascript, MySQL and it run on a docker service. It allows users with any kind of device to safely store, share and retrieve passwords, certificates, files and much more."

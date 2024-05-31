@@ -1,0 +1,60 @@
+NextCloud & nextcloud & server &25.7k & File hosting service \\ 
+\hline
+Bookstack & BookStackApp & BookStack &13.9k & Self hosted platform to create documentation/wiki \\ 
+\hline
+OwnCloud & owncloud & core &8.3k & Cloud Data storage solution \\ 
+\hline
+Kanboard & kanboard & kanboard &8.2k & Project management software \\ 
+\hline
+Sylius & Sylius & Sylius &7.7k & Open Source eCommerce Framework on Symfony \\ 
+\hline
+InvoiceNinja & invoiceninja & invoiceninja &7.8k & Invoices, Expenses and Tasks management built with Laravel, Flutter and React \\ 
+\hline
+Opencart & opencart & opencart &7.3k & Online store builder \\ 
+\hline
+HumHub & humhub & humhub &6.2k & Open Source Enterprise Social Network \\ 
+\hline
+Flarum & flarum & framework &6.2k & Simple forum software \\ 
+\hline
+PrivateBin & PrivateBin & PrivateBin &5.9k & Online pastebin where the server has zero knowledge of pasted data \\ 
+\hline
+Moodle & moodle & moodle &5.4k & Open source learning platform \\ 
+\hline
+Krayin & krayin & laravel-crm &6.8k & Laravel CRM solution enterprises \\ 
+\hline
+pfSense & pfsense & pfsense &4.6k & Network firewall distribution that includes a web interface for configuration \\ 
+\hline
+UVDesk & uvdesk & community-skeleton &6.5k & Helpdesk solution \\ 
+\hline
+Pimcore & pimcore & pimcore &3.2k & Core Framework for the Open Source Data \& Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS \& Digital Commerce) \\ 
+\hline
+Microweber & microweber & microweber &3.0k & Drag and Drop Website Builder and CMS with E-commerce \\ 
+\hline
+Piwigo & Piwigo & Piwigo &3.0k & Photo manager \\ 
+\hline
+Vesta & serghey-rodin & vesta &2.9k & Control panel solution to manage websites, DNS, mail, and more \\ 
+\hline
+Hestia & hestiacp & hestiacp &3.1k & Control panel solution to manage websites, DNS, mail, and more \\ 
+\hline
+Vanilla & vanilla & vanilla &2.8k & Discussion forum platform \\ 
+\hline
+Kimai & kevinpapst & kimai2 &2.9k & Web-based multi-user time-tracking application \\ 
+\hline
+Shopware & shopware & platform &2.6k & Open commerce platform based on Symfony Framework and Vue \\ 
+\hline
+phpBB & phpbb & phpbb &1.8k & Bulletin board system \\ 
+\hline
+Filegator & filegator & filegator &1.9k & Multi-user filer manager \\ 
+\hline
+Espocrm & espocrm & espocrm &1.5k & CRM application \\ 
+\hline
+Friendica & friendica & friendica &1.4k & Decentralized social communication platform \\ 
+\hline
+Sulu & sulu & sulu &1.1k & Highly extensible CMS \\ 
+\hline
+MyBB & mybb & mybb &1.0k & Forum software \\ 
+\hline
+Tuleap & Enalean & tuleap &956.0 & Project management tool for software development \\ 
+\hline
+Concrete & concrete5 & concrete5 &763.0 & CMS solution \\ 
+\hline

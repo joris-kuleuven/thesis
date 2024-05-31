@@ -1,0 +1,62 @@
+NextCloud & github.com/nextcloud/server &25.7k & File hosting service \\ 
+\hline
+Bookstack & github.com/BookStackApp/BookStack &13.9k & Self hosted platform to create documentation/wiki \\ 
+\hline
+OwnCloud & github.com/owncloud/core &8.3k & Cloud Data storage solution \\ 
+\hline
+Kanboard & github.com/kanboard/kanboard &8.2k & Project management software \\ 
+\hline
+Sylius & github.com/Sylius/Sylius &7.7k & Open Source eCommerce Framework on Symfony \\ 
+\hline
+InvoiceNinja & github.com/invoiceninja/invoiceninja &7.8k & Invoices, Expenses and Tasks management built with Laravel, Flutter and React \\ 
+\hline
+Opencart & github.com/opencart/opencart &7.3k & Online store builder \\ 
+\hline
+HumHub & github.com/humhub/humhub &6.2k & Open Source Enterprise Social Network \\ 
+\hline
+Flarum & github.com/flarum/framework &6.2k & Simple forum software \\ 
+\hline
+PrivateBin & github.com/PrivateBin/PrivateBin &5.9k & Online pastebin where the server has zero knowledge of pasted data \\ 
+\hline
+Moodle & github.com/moodle/moodle &5.4k & Open source learning platform \\ 
+\hline
+Krayin & github.com/krayin/laravel-crm &6.8k & Laravel CRM solution enterprises \\ 
+\hline
+pfSense & github.com/pfsense/pfsense &4.6k & Network firewall distribution that includes a web interface for configuration \\ 
+\hline
+UVDesk & github.com/uvdesk/community-skeleton &6.5k & Helpdesk solution \\ 
+\hline
+Pimcore & github.com/pimcore/pimcore &3.2k & Experience Management Platform \\ 
+\hline
+Microweber & github.com/microweber/microweber &3.0k & Drag and Drop Website Builder and CMS with E-commerce \\ 
+\hline
+Piwigo & github.com/Piwigo/Piwigo &3.0k & Photo manager \\ 
+\hline
+Vesta & github.com/serghey-rodin/vesta &2.9k & Control panel solution to manage websites, DNS, mail, and more \\ 
+\hline
+Hestia & github.com/hestiacp/hestiacp &3.1k & Control panel solution to manage websites, DNS, mail, and more \\ 
+\hline
+Vanilla & github.com/vanilla/vanilla &2.8k & Discussion forum platform \\ 
+\hline
+Kimai & github.com/kevinpapst/kimai2 &2.9k & Web-based multi-user time-tracking application \\ 
+\hline
+Shopware & github.com/shopware/platform &2.6k & Open commerce platform based on Symfony Framework and Vue \\ 
+\hline
+phpBB & github.com/phpbb/phpbb &1.8k & Bulletin board system \\ 
+\hline
+Filegator & github.com/filegator/filegator &1.9k & Multi-user filer manager \\ 
+\hline
+Espocrm & github.com/espocrm/espocrm &1.5k & CRM application \\ 
+\hline
+Friendica & github.com/friendica/friendica &1.4k & Decentralized social communication platform \\ 
+\hline
+Sulu & github.com/sulu/sulu &1.1k & Highly extensible CMS \\ 
+\hline
+MyBB & github.com/mybb/mybb &1k & Forum software \\ 
+\hline
+Tuleap & github.com/Enalean/tuleap &956 & Project management tool for software development \\ 
+\hline
+Concrete & github.com/concrete5/concrete5 &763 & CMS solution \\ 
+\hline
+mybb & github.com/mybb/mybb & 1k & Forum hosting software \\
+\hline

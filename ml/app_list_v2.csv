@@ -1,0 +1,31 @@
+href,appname,github_href,num_commits,num_stars,description
+/project/NextCloud,NextCloud,https://github.com/nextcloud/server,30,25718,File hosting service
+/project/Bookstack,Bookstack,https://github.com/BookStackApp/BookStack,30,13924,Self hosted platform to create documentation/wiki
+/project/OwnCloud,OwnCloud,https://github.com/owncloud/core,30,8273,Cloud Data storage solution
+/project/Kanboard,Kanboard,https://github.com/kanboard/kanboard,30,8161,Project management software
+/project/Sylius,Sylius,https://github.com/Sylius/Sylius,30,7691,Open Source eCommerce Framework on Symfony
+/project/InvoiceNinja,InvoiceNinja,https://github.com/invoiceninja/invoiceninja,30,7786,"Invoices, Expenses and Tasks management built with Laravel, Flutter and React"
+/project/Opencart,Opencart,https://github.com/opencart/opencart,30,7252,Online store builder
+/project/HumHub,HumHub,https://github.com/humhub/humhub,30,6223,Open Source Enterprise Social Network
+/project/Flarum,Flarum,https://github.com/flarum/framework,30,6195,Simple forum software
+/project/PrivateBin,PrivateBin,https://github.com/PrivateBin/PrivateBin,30,5900,Online pastebin where the server has zero knowledge of pasted data
+/project/Moodle,Moodle,https://github.com/moodle/moodle,30,5414,Open source learning platform
+/project/Krayin,Krayin,https://github.com/krayin/laravel-crm,30,6762,Laravel CRM solution enterprises
+/project/pfSense,pfSense,https://github.com/pfsense/pfsense,30,4646,Network firewall distribution that includes a web interface for configuration
+/project/UVDesk,UVDesk,https://github.com/uvdesk/community-skeleton,30,6450,Helpdesk solution
+/project/Pimcore,Pimcore,https://github.com/pimcore/pimcore,30,3206,"Core Framework for the Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)"
+/project/Microweber,Microweber,https://github.com/microweber/microweber,30,3019,Drag and Drop Website Builder and CMS with E-commerce
+/project/Piwigo,Piwigo,https://github.com/Piwigo/Piwigo,30,3045,Photo manager
+/project/Vesta,Vesta,https://github.com/serghey-rodin/vesta,30,2885,"Control panel solution to manage websites, DNS, mail, and more"
+/project/Hestia,Hestia,https://github.com/hestiacp/hestiacp,30,3057,"Control panel solution to manage websites, DNS, mail, and more"
+/project/Vanilla,Vanilla,https://github.com/vanilla/vanilla,30,2825,Discussion forum platform
+/project/Kimai-,Kimai,https://github.com/kevinpapst/kimai2,30,2917,Web-based multi-user time-tracking application
+/project/Shopware,Shopware,https://github.com/shopware/platform,30,2637,Open commerce platform based on Symfony Framework and Vue
+/project/phpBB,phpBB,https://github.com/phpbb/phpbb,30,1788,Bulletin board system
+/project/Filegator,Filegator,https://github.com/filegator/filegator,30,1887,Multi-user filer manager
+/project/Espocrm,Espocrm,https://github.com/espocrm/espocrm,30,1523,CRM application
+/project/Friendica,Friendica,https://github.com/friendica/friendica,30,1377,Decentralized social communication platform
+/project/Sulu,Sulu,https://github.com/sulu/sulu,30,1119,Highly extensible CMS
+/project/MyBB,MyBB,https://github.com/mybb/mybb,30,1033,Forum software
+/project/Tuleap,Tuleap,https://github.com/Enalean/tuleap,30,956,Project management tool for software development
+/project/Concrete,Concrete,https://github.com/concrete5/concrete5,30,763,CMS solution
