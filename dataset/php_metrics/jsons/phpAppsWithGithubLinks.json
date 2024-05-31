@@ -1,0 +1,302 @@
+[
+ {
+  "href": "/project/NextCloud",
+  "appname": "NextCloud",
+  "github_href": "https://github.com/nextcloud/server"
+ },
+ {
+  "href": "/project/Matomo",
+  "appname": "Matomo",
+  "github_href": "https://github.com/Matomo-org/matomo"
+ },
+ {
+  "href": "/project/Cachet",
+  "appname": "Cachet",
+  "github_href": "https://github.com/CachetHQ/Cachet"
+ },
+ {
+  "href": "/project/Bookstack",
+  "appname": "Bookstack",
+  "github_href": "https://github.com/BookStackApp/BookStack"
+ },
+ {
+  "href": "/project/Firefly-III",
+  "appname": "Firefly III",
+  "github_href": "https://github.com/firefly-iii/firefly-iii"
+ },
+ {
+  "href": "/project/Magento-",
+  "appname": "Magento",
+  "github_href": "https://github.com/magento/magento2"
+ },
+ {
+  "href": "/project/YOURLS",
+  "appname": "YOURLS",
+  "github_href": "https://github.com/YOURLS/YOURLS"
+ },
+ {
+  "href": "/project/Wallabag",
+  "appname": "Wallabag",
+  "github_href": "https://github.com/wallabag/wallabag"
+ },
+ {
+  "href": "/project/Bagisto",
+  "appname": "Bagisto",
+  "github_href": "https://github.com/bagisto/bagisto"
+ },
+ {
+  "href": "/project/WooCommerce",
+  "appname": "WooCommerce",
+  "github_href": "https://github.com/woocommerce/woocommerce"
+ },
+ {
+  "href": "/project/OwnCloud",
+  "appname": "OwnCloud",
+  "github_href": "https://github.com/owncloud/core"
+ },
+ {
+  "href": "/project/Kanboard",
+  "appname": "Kanboard",
+  "github_href": "https://github.com/kanboard/kanboard"
+ },
+ {
+  "href": "/project/PrestaShop",
+  "appname": "PrestaShop",
+  "github_href": "https://github.com/prestashop/prestashop"
+ },
+ {
+  "href": "/project/Sylius",
+  "appname": "Sylius",
+  "github_href": "https://github.com/Sylius/Sylius"
+ },
+ {
+  "href": "/project/InvoiceNinja",
+  "appname": "InvoiceNinja",
+  "github_href": "https://github.com/invoiceninja/invoiceninja"
+ },
+ {
+  "href": "/project/Opencart",
+  "appname": "Opencart",
+  "github_href": "https://github.com/opencart/opencart"
+ },
+ {
+  "href": "/project/Akaunting",
+  "appname": "Akaunting",
+  "github_href": "https://github.com/akaunting/akaunting"
+ },
+ {
+  "href": "/project/Mautic",
+  "appname": "Mautic",
+  "github_href": "https://github.com/mautic/mautic"
+ },
+ {
+  "href": "/project/HumHub",
+  "appname": "HumHub",
+  "github_href": "https://github.com/humhub/humhub"
+ },
+ {
+  "href": "/project/Flarum",
+  "appname": "Flarum",
+  "github_href": "https://github.com/flarum/framework"
+ },
+ {
+  "href": "/project/PrivateBin",
+  "appname": "PrivateBin",
+  "github_href": "https://github.com/PrivateBin/PrivateBin"
+ },
+ {
+  "href": "/project/Pixelfed",
+  "appname": "Pixelfed",
+  "github_href": "https://github.com/pixelfed/pixelfed"
+ },
+ {
+  "href": "/project/Moodle",
+  "appname": "Moodle",
+  "github_href": "https://github.com/moodle/moodle"
+ },
+ {
+  "href": "/project/DoliCloud",
+  "appname": "DoliCloud",
+  "github_href": "https://github.com/Dolibarr/dolibarr"
+ },
+ {
+  "href": "/project/Krayin",
+  "appname": "Krayin",
+  "github_href": "https://github.com/krayin/laravel-crm"
+ },
+ {
+  "href": "/project/pfSense",
+  "appname": "pfSense",
+  "github_href": "https://github.com/pfsense/pfsense"
+ },
+ {
+  "href": "/project/UVDesk",
+  "appname": "UVDesk",
+  "github_href": "https://github.com/uvdesk/community-skeleton"
+ },
+ {
+  "href": "/project/Passbolt",
+  "appname": "Passbolt",
+  "github_href": "https://github.com/passbolt/passbolt_api"
+ },
+ {
+  "href": "/project/SuiteCRM",
+  "appname": "SuiteCRM",
+  "github_href": "https://github.com/salesagility/SuiteCRM"
+ },
+ {
+  "href": "/project/Docuwiki",
+  "appname": "Docuwiki",
+  "github_href": "https://github.com/splitbrain/dokuwiki"
+ },
+ {
+  "href": "/project/LeanTime",
+  "appname": "LeanTime",
+  "github_href": "https://github.com/leantime/leantime"
+ },
+ {
+  "href": "/project/Pimcore",
+  "appname": "Pimcore",
+  "github_href": "https://github.com/pimcore/pimcore"
+ },
+ {
+  "href": "/project/Microweber",
+  "appname": "Microweber",
+  "github_href": "https://github.com/microweber/microweber"
+ },
+ {
+  "href": "/project/Piwigo",
+  "appname": "Piwigo",
+  "github_href": "https://github.com/Piwigo/Piwigo"
+ },
+ {
+  "href": "/project/Vesta",
+  "appname": "Vesta",
+  "github_href": "https://github.com/serghey-rodin/vesta"
+ },
+ {
+  "href": "/project/Hestia",
+  "appname": "Hestia",
+  "github_href": "https://github.com/hestiacp/hestiacp"
+ },
+ {
+  "href": "/project/Vanilla",
+  "appname": "Vanilla",
+  "github_href": "https://github.com/vanilla/vanilla"
+ },
+ {
+  "href": "/project/Opnsense",
+  "appname": "Opnsense",
+  "github_href": "https://github.com/opnsense/core"
+ },
+ {
+  "href": "/project/Kimai-",
+  "appname": "Kimai",
+  "github_href": "https://github.com/kevinpapst/kimai2"
+ },
+ {
+  "href": "/project/Shopware",
+  "appname": "Shopware",
+  "github_href": "https://github.com/shopware/platform"
+ },
+ {
+  "href": "/project/LinkAce",
+  "appname": "LinkAce",
+  "github_href": "https://github.com/Kovah/LinkAce"
+ },
+ {
+  "href": "/project/Open-Web-Analytics",
+  "appname": "Open Web Analytics",
+  "github_href": "https://github.com/padams/Open-Web-Analytics"
+ },
+ {
+  "href": "/project/phpBB",
+  "appname": "phpBB",
+  "github_href": "https://github.com/phpbb/phpbb"
+ },
+ {
+  "href": "/project/Filegator",
+  "appname": "Filegator",
+  "github_href": "https://github.com/filegator/filegator"
+ },
+ {
+  "href": "/project/Fusio",
+  "appname": "Fusio",
+  "github_href": "https://github.com/apioo/fusio"
+ },
+ {
+  "href": "/project/YetiForce-CRM",
+  "appname": "YetiForce CRM",
+  "github_href": "https://github.com/YetiForceCompany/YetiForceCRM"
+ },
+ {
+  "href": "/project/Sendportal",
+  "appname": "Sendportal",
+  "github_href": "https://github.com/mettle/sendportal"
+ },
+ {
+  "href": "/project/Espocrm",
+  "appname": "Espocrm",
+  "github_href": "https://github.com/espocrm/espocrm"
+ },
+ {
+  "href": "/project/Friendica",
+  "appname": "Friendica",
+  "github_href": "https://github.com/friendica/friendica"
+ },
+ {
+  "href": "/project/Sulu",
+  "appname": "Sulu",
+  "github_href": "https://github.com/sulu/sulu"
+ },
+ {
+  "href": "/project/MyBB",
+  "appname": "MyBB",
+  "github_href": "https://github.com/mybb/mybb"
+ },
+ {
+  "href": "/project/Tuleap",
+  "appname": "Tuleap",
+  "github_href": "https://github.com/Enalean/tuleap"
+ },
+ {
+  "href": "/project/Flyimg",
+  "appname": "Flyimg",
+  "github_href": "https://github.com/flyimg/flyimg"
+ },
+ {
+  "href": "/project/Thelia",
+  "appname": "Thelia",
+  "github_href": "https://github.com/thelia/thelia"
+ },
+ {
+  "href": "/project/Concrete",
+  "appname": "Concrete",
+  "github_href": "https://github.com/concrete5/concrete5"
+ },
+ {
+  "href": "/project/BoxBilling",
+  "appname": "BoxBilling",
+  "github_href": "https://github.com/boxbilling/boxbilling"
+ },
+ {
+  "href": "/project/Orangehrm",
+  "appname": "Orangehrm",
+  "github_href": "https://github.com/orangehrm/orangehrm"
+ },
+ {
+  "href": "/project/CiviCRM",
+  "appname": "CiviCRM",
+  "github_href": "https://github.com/civicrm/civicrm-core"
+ },
+ {
+  "href": "/project/Shopaholic",
+  "appname": "Shopaholic",
+  "github_href": "https://github.com/oc-shopaholic/oc-shopaholic-plugin"
+ },
+ {
+  "href": "/project/Passwordcockpit",
+  "appname": "Passwordcockpit",
+  "github_href": "https://github.com/passwordcockpit/passwordcockpit"
+ }
+]

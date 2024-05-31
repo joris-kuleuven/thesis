@@ -1,0 +1,275 @@
+{
+    "singleUrl": "https://github.com/PrivateBin/PrivateBin",
+    "commits": [
+        {
+            "sha": "8d0ac336d23cd8c98e71d5f21cdadcae9c8a26e6",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "7be5206920813926ca4d2ff4a3bf279373b7461f",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "928215dc5ebffcaaa87efb1c40398d6cd517808a",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "87cf61c39bbe04627f5d66c37402779af5b0c2b4",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "2a4d572c1e9eb9b608d32b0cc0cb3b6c3b684eab",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "4bf7f863dc2ffea1ea105e575205ab0f83ed2751",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "0ee86f33da2a5496cd1631adb84395b71ee92113",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "abd71413c3cc3001070694d2e0066809129a33c4",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "2cbb8bf3ca470804c4a8d0636a4358db66a9abdf",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "c11dc8e17effd30d047b0101b19742c9bd34fc28",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "ff6b9bd8f96d868460161ea5d8ee9a467cfdc89c",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "dcbefcc1c3933ab1c5da695a27574aaea1a599e6",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "60cedd7fb56fb8add77fcd3e3a3126bef3598ade",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "d3b8ef44ed9236fa4e5958ef3f93bb6078a0af0a",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "f83f80b5f634dc0472e9d9aa2c671d38a3e4b148",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "390a3ba81f65b9b703838e0a1ecd7a17176cde77",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "6a663ba07f442d30c6730bbf3a76c8dd9046662d",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "046ccf2000dc56e5fa5385dc1dfaccf2dc6f6107",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "f51bfb726509b2cd8acce4e03c5f4e825b317fde",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "e2ae0da4e1d310447c2847ea7cdde84e3109bc40",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "d7452b653858413756833a6c7711c99e6fc41025",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "12c83a13c77eb9246e9bf94e112bb51494390905",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "cea96ee12a1e3e91c72f6efe6cac636cca6a80a8",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "c7da424ef91bb9cc0f480f8e148eac393a0095ce",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "66f2a4b6f52ece3ed17c861974078d5f442b6092",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "461aed8573e43354bf18bc768b64fd87287b6f7c",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "a3e0418b3357474856506000fce785db2322047f",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "a8f7840d2548f063b53d0990e37990c30cb1587e",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "b11866a63b41df0c4b07bc4cee542feab50e73a5",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "d5c014a06b2dc543cac72fba498ecfe56efa01cd",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "5779d87788c383cbd3bbb8cb65fb7ed0779910c8",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "993abd746e0b774b868e22ce3452b2a5c9e52403",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "7a3a306ddcbf0cef045444b7ecd7aaab671a5f0d",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "7255cd29a73496e68f12a926ac8948063179db21",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "5457196f7263c8c74dd258ffb60c51d68ca94316",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "566f8f1b1d1b987d4ee873dbe52e2e0b703bcd54",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "c15351b793622080610d0b8865a73d1bcd0b65c0",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "31cfa5b6e38834ac55857fdaa99bb8852201b918",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "c0207d00a2f7b6b42197e5eef32eab621cf7d32c",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "f179e75e729a255e3b779f0b1753624a1ac2b891",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "76bc8590a675cb8bbd2611195ecb0b89603753c8",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "d27f43eb1de2ac0e003b2675644b05cd0b2c20ef",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "50af37507f959e3c5c574b2d728046a4635bb956",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "c2962af4f87e6dada72e78a7ad1fa3db882a0868",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "d664af6ce5e4f2f5e04c16b92f3cfb02a91e2d9b",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "3a24e19e490861a39ad34244e2095649cf5a1701",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "210870590ccae385dfe38c688c35654266bf20c2",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "0780e5ace26b104856c2b04356acf9104141d843",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "460d7ec3eba1fd4314176da185cf47b551d91e98",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "9f6c02276a8271b762502828f337395bc58ae73e",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "534d014254f474c50caf8fa07c5acb5ba1990a73",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "5d61b90d6b340d6b184a738a73a43268269541c8",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "b3b97b69c6c78eb66d8d88e03fef46da0c31f9ab",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "41a3748656d3f8e625b6c3168cb831d51ade1fe6",
+            "is_vulnerable": false,
+            "neutral": true
+        }
+    ]
+}

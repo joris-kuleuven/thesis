@@ -1,0 +1,30 @@
+{
+    "singleUrl": "https://github.com/uvdesk/community-skeleton",
+    "commits": [
+        {
+            "sha": "6fae9442361c8a216611d3622bec26249a8c48a0",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "b6f38135ab1c99572202ae1c7cb1fe00cc53034b",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "a551957235a1828660697ccc96455eba2e158d0b",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "d541c0c32b91649aac237ddc56167293835bf62a",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "14f28a74d9500948f49aee6afd1a06aa201b2ca7",
+            "is_vulnerable": false,
+            "neutral": true
+        }
+    ]
+}

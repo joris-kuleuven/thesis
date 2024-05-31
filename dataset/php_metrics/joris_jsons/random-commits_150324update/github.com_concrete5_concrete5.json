@@ -1,0 +1,75 @@
+{
+    "singleUrl": "https://github.com/concrete5/concrete5",
+    "commits": [
+        {
+            "sha": "66552972310b9ef2ff53cdfb8592ff1958858120",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "add5bc256fff61593b5b497c71f2169e53bcb8dc",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "06edcb632969c5d78c46799617f9ba03c3d746ef",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "1873c237a2083e7c8fe7166013661479bd052c6d",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "e0af3b8e87554138e1482b5c8f748a393f25387c",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "9a8dc91aeedf9945f000a9ed3c4e2aa64d650bdd",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "e36580834fe0f0395dba173c3d46621637c204c1",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "2f3c9387cdae6ba2f8966f0c1e9ada10eec0d2d8",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "e62d47eeeb49767306fd5a4dfd66ac1aa44652ea",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "da41dbbc1280ee7ff49e96c4fbd721536c826277",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "2edeb095c45028acc3cb9b810f45bade92a7f2ca",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "bbcf02ce4de63b3730f5b4735f8c24c57b049851",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "fcb455c4f6de17764c281f9653e611f7d0613fb1",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "8f0dd707f0a500e9ca9e1e0816ae5bb136ded76f",
+            "is_vulnerable": false,
+            "neutral": true
+        }
+    ]
+}

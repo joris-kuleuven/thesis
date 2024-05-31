@@ -1,0 +1,50 @@
+{
+    "singleUrl": "https://github.com/invoiceninja/invoiceninja",
+    "commits": [
+        {
+            "sha": "1186eaa82375692d01d5ef3369c5b7bc7315b55f",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "66eb99951eb21b2e137771b73d4e8597c4d5fdf8",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "d2a929b975897fd04429a0843fb331f6c26c301f",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "5bf942a77e0eeec663efa2a08c99cf1948661585",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "40a4e3f3ea4ae80b3f9c9c41d35df70599856f0b",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "13cc55a558d3ccbab59feaafd59ed03e075fb30b",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "6a69e38aab8e4e256ccda6cf69944f12573874aa",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "52b449f19c9d33ae6e2ea2d455cf927a0c31440e",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "1b2922b57c51ab426beb8078bed3f562a71f3db9",
+            "is_vulnerable": false,
+            "neutral": true
+        }
+    ]
+}

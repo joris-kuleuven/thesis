@@ -1,0 +1,30 @@
+{
+    "singleUrl": "https://github.com/orangehrm/orangehrm",
+    "commits": [
+        {
+            "sha": "fac8ca2177426b0f7fc2500a62cad703d5b53aab",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "342ca2579a2fa2c3c2fa7a6c48942a9870dff3b3",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "c56fd2aec359fe964233be68a6145f65af1624e3",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "28ec0c0a8e3d238a42f09b085c585fe85625e1b6",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "5dc7bdd189f27f493434f156ed3f5dcde0c59c79",
+            "is_vulnerable": false,
+            "neutral": false
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "singleUrl": "https://github.com/wallabag/wallabag",
+    "commits": [
+        {
+            "sha": "0f7460dbab9e29f4f7d2944aca20210f828b6abb",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "5ac6b6bff9e2e3a87fd88c2904ff3c6aac40722e",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "268372dbbdd7ef87b84617fdebf95d0a86caf7dc",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "4e023bddc3622ba5e901cc14a261fcb98d955cd7",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "acd285dcbb71b595e6320bb1d0d3a44cdf646ac0",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "78b0b55c40511e1f22d5bbb4897aa10fca68441c",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "ffcc5c9062fcc8cd922d7d6d65edbe5efae96806",
+            "is_vulnerable": false,
+            "neutral": false
+        }
+    ]
+}

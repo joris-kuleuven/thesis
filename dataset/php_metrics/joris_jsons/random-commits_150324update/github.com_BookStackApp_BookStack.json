@@ -1,0 +1,75 @@
+{
+    "singleUrl": "https://github.com/BookStackApp/BookStack",
+    "commits": [
+        {
+            "sha": "349162ea139556b2d25e09e155cec84e21cc9227",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "d41452f39c90deaca98b4fe0e8c87f7d7aa395b8",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "e639600ba5909941db97fdd3a4df4220d80f4c7a",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "eaa1765c7a68cd671bcb37a666203210bf05d217",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "bbd1384acbe7e52c21f89af69f2dc391c95dbf54",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "bbb41e8b5cc5c6e33cb27ef1b69092cf7a0f70ba",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "173dad345ef5c7c5d5a7b655e7901f3baf58d975",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "e3bdc391cd2a40c4c6346645cb30529d7dccd356",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "e2df15fe2044b223b8584d45b622e22860cfade9",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "481aa5b5b00a6f0ecad0617c52c3c6148b69a49b",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "f02cfd8271170ff72b303ce69531206e9d33faff",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "5f1ee5fb0e8f9422650b380f8bdd7299618a99fa",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "c50ac022a820114f78d6d0c524d668503c78c50d",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "672b15d36c5c27f74b5044b438f3a5ba3b7c7f65",
+            "is_vulnerable": false,
+            "neutral": true
+        }
+    ]
+}

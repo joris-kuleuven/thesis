@@ -1,0 +1,65 @@
+{
+    "singleUrl": "https://github.com/vanilla/vanilla",
+    "commits": [
+        {
+            "sha": "e9a101c1863351fba71c830a0d7715706c628352",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "6b6c4e24784b15e107a9d9debff953faeac0d742",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "3894578e2f78d3fb7183080fbbdf29613b9c359c",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "4535a059e4e24ca11a2ef0b4d754f262398bcece",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "5c05548f3fc977a61d631cc97051438abf235fa0",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "379f7bc3509477fed0c2b16ee329ec64b6c2591d",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "84787a72705c17ee0a1a8f880d0a7617de2172ce",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "811dc002538c3e0121c8e16d67ad501b7315f34a",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "dacb2f6b3debe3a99c8a04fd2d1fdf0f96b31117",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "e9989b3f032d3a738bf66b0b32867857745719ea",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "29ddc63cd15ad37e847fb72dd122e337ebc56b82",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "2f1681184751cf4968204ff4d34e317362edaea0",
+            "is_vulnerable": false,
+            "neutral": true
+        }
+    ]
+}

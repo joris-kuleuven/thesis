@@ -1,0 +1,15 @@
+{
+    "singleUrl": "https://github.com/YOURLS/YOURLS",
+    "commits": [
+        {
+            "sha": "a7b6750c74eedca31394a404f1ed7f6ca5829a6b",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "93396c14587ece4f3d7bcb654f6d22eb0bae7d74",
+            "is_vulnerable": false,
+            "neutral": false
+        }
+    ]
+}

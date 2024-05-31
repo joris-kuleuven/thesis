@@ -1,0 +1,10 @@
+{
+    "singleUrl": "https://github.com/salesagility/SuiteCRM",
+    "commits": [
+        {
+            "sha": "b1b3fd61c7697ad2073cd253d31c9462929e7bb5",
+            "is_vulnerable": false,
+            "neutral": false
+        }
+    ]
+}

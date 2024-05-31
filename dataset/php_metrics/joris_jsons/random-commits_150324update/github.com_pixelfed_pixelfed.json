@@ -1,0 +1,15 @@
+{
+    "singleUrl": "https://github.com/pixelfed/pixelfed",
+    "commits": [
+        {
+            "sha": "5b5f5bc38ca9ba39d0b7dacc3813fb899f71ba57",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "ef56f92c3d77e9bafaa70c08b7c04d5a61b8d454",
+            "is_vulnerable": false,
+            "neutral": false
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "singleUrl": "https://github.com/Sylius/Sylius",
+    "commits": [
+        {
+            "sha": "be245302dfc594d8690fe50dd47631d186aa945f",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "60636d711a4011e8694d10d201b53632c7e8ecaf",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "765dc6e841817e427898e47c4a6503ce0e56f224",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "fa30c812c5639a0eae40cb0112d1cbaf1736bf63",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "ccef9f963d8ea054126dc2b63f1cc6bbece85816",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "92c5773c742d7bceec05beb70eae672ef2d86085",
+            "is_vulnerable": false,
+            "neutral": true
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "singleUrl": "https://github.com/phpbb/phpbb",
+    "commits": [
+        {
+            "sha": "eaeb88133f1f028fa06f0ebe5639668436fd469e",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "4b9434bf1ba4c015da11309602cfccf1a9c2493c",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "e34b92882a51dc89da88464b8c751a9d93a03124",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "23069a13e203985ab124d1139e8de74b12778449",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "4defd8a8306fa8daa25427a37fb6db00bff390c7",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "1a3350619f428d9d69d196c52128727e27ef2f04",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "18abef716ecf42a35416444f3f84f5459d573789",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "ccf6e6c255d38692d72fcb613b113e6eaa240aac",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "922378179759cd5ff0035cdcb88be7e167239038",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "54b7b2320c33023a85f4b11ded778491d63b73bd",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "c25c17adb7b97956d96d61a11474728732e43604",
+            "is_vulnerable": false,
+            "neutral": true
+        }
+    ]
+}

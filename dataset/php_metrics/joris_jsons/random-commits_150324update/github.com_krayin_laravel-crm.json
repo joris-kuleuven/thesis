@@ -1,0 +1,70 @@
+{
+    "singleUrl": "https://github.com/krayin/laravel-crm",
+    "commits": [
+        {
+            "sha": "882dc2e7e7e9149b96cf1ccacf34900960b92fb7",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "1e299f63327723c6e98da09ba43e3af7c71e4e1d",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "1606d4bff8699dd3395f7d99fc94e5a415ba75e1",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "ed284923ff7a924d5ae0b9070f841c039d1a8e1f",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "9e2b24b9008b226e0b7f97128ad9e22534890b92",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "6b7959490875cf55973ff4bede93959bafb11f9b",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "47900bfb74a56a595a111eb1c4976e869f2a3301",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "fd61a50ef60f3a8d55ad5b5925c8c1bb6f611892",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "67f662aa18f9b251cba7314e0ac0c7b651296178",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "0cc1964f6f6603261f7708c0698b0cdff589c2d6",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "a48d3d6ce31b14a24934bc8be49f1091929b50ca",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "1606d4bff8699dd3395f7d99fc94e5a415ba75e1",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "b08be92115752aefebd2aee0d95d528f353205f4",
+            "is_vulnerable": false,
+            "neutral": true
+        }
+    ]
+}

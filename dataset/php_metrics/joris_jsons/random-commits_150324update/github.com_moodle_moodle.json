@@ -1,0 +1,30 @@
+{
+    "singleUrl": "https://github.com/moodle/moodle",
+    "commits": [
+        {
+            "sha": "ce5a785b0962c3c94c7a7b0d36176482d21db95d",
+            "is_vulnerable": false,
+            "neutral": false
+        },
+        {
+            "sha": "6e5d002e5714a9480b25baabe4aabf535796e231",
+            "is_vulnerable": true,
+            "neutral": false
+        },
+        {
+            "sha": "038bf621439c022ac817254dc476ce511dd8af22",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "5ad0bb82f177aed7f2fb909d5a0c6c5b078f36c9",
+            "is_vulnerable": false,
+            "neutral": true
+        },
+        {
+            "sha": "918d35fe07397b295426c8c0123f72b309dc7e79",
+            "is_vulnerable": false,
+            "neutral": true
+        }
+    ]
+}

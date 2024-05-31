@@ -1,0 +1,10 @@
+{
+    "singleUrl": "https://github.com/magento/magento2",
+    "commits": [
+        {
+            "sha": "f278f9960da02151b13423b122be3191b0f7fb3c",
+            "is_vulnerable": false,
+            "neutral": false
+        }
+    ]
+}

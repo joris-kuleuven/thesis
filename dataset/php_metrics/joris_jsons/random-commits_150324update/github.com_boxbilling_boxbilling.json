@@ -1,0 +1,10 @@
+{
+    "singleUrl": "https://github.com/boxbilling/boxbilling",
+    "commits": [
+        {
+            "sha": "b6705995785eaa8653e876318c9b3d82060dc945",
+            "is_vulnerable": false,
+            "neutral": false
+        }
+    ]
+}
